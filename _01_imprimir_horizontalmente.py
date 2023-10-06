@@ -22,3 +22,4 @@ for x in algunos_enteros:
 
 # ejemplo 2, agregamos / como final de cada impresión.
 print('mm', 'dd', 'yyyy', sep='/')
+print('10', '03', '1990', sep='/')
