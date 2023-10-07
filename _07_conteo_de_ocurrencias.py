@@ -11,6 +11,9 @@ aparecen en en un iterable.
 Cada key del diccionario resultante es un elemento del
 iterable.
 
+Las instancias Counter soportan comparación por medio del
+operador ==.
+
 Notas:
 - Los objetos Counter extienden de dict, y tienen un método
 llamado most_common que permiten obteneruna lista con los
