@@ -15,3 +15,5 @@ uno o más ejemplo.
 que en libro en el que me estoy basando.
 - Algunos ejemplos requieren dependencias, se anexa el archivo
 requeriments.txt
+- Hay problemas que se repiten, si es el caso se otorgan soluciones
+diferentes.
