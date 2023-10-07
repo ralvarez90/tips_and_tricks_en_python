@@ -7,9 +7,11 @@ Se requiere ya conocer en un nivel intermedio aproximadamente para
 poder seguir el repo sin problemas.
 
 Cada lección se separa por script, una descripción y
-uno o más ejemplo. Los enlaces a cada lección:
+uno o más ejemplo.
 
 
 ### Notas
-- Algunos scripts vienen con funciones o ejercicoos más elavorados.
-- 
+- Algunos scripts vienen con funciones o ejercicios más elavorados
+que en libro en el que me estoy basando.
+- Algunos ejemplos requieren dependencias, se anexa el archivo
+requeriments.txt
