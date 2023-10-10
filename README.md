@@ -9,6 +9,8 @@ poder seguir el repo sin problemas.
 Cada lección se separa por script, una descripción y
 uno o más ejemplo.
 
+El objetivo es generar contenido en español.
+
 
 ### Notas
 - Algunos scripts vienen con funciones o ejercicios más elavorados
